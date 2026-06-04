@@ -1,6 +1,6 @@
-hysteria2://Masir_Sefid@18.159.104.97:443?security=tls&obfs=salamander&obfs-password=Masir_Sefid&insecure=0&sni=qus.masir-sefid.shop#کافی نت سون
-hysteria2://Masir_Sefid@18.159.104.97:444?security=tls&obfs=salamander&obfs-password=Masir_Sefid&insecure=0&sni=qus.masir-sefid.shop#کافی نت سون
-hysteria2://Masir_Sefid@18.159.104.97:8880?security=tls&obfs=salamander&obfs-password=Masir_Sefid&insecure=0&sni=qus.masir-sefid.shop#کافی نت سون
-hysteria2://Masir_Sefid@18.159.104.97:1040?security=tls&obfs=salamander&obfs-password=Masir_Sefid&insecure=0&sni=qus.masir-sefid.shop#کافی نت سون
-hysteria2://Masir_Sefid@18.159.104.97:4040?security=tls&obfs=salamander&obfs-password=Masir_Sefid&insecure=0&sni=qus.masir-sefid.shop#کافی نت سون
-hysteria2://Masir_Sefid@18.159.104.97:54040?security=tls&obfs=salamander&obfs-password=Masir_Sefid&insecure=0&sni=qus.masir-sefid.shop#کافی نت سون
+hysteria2://Masir_Sefid@65.109.216.181:443?security=tls&obfs=salamander&obfs-password=Masir_Sefid&insecure=0&sni=qs.masir-sefid.shop#%D8%B3%D8%B1%D9%88%D8%B1%20%D8%A7%D8%B6%D8%B7%D8%B1%D8%A7%D8%B1%DB%8C%2014%D8%AE%D8%B1%D8%AF%D8%A7%D8%AF%201405
+hysteria2://Masir_Sefid@65.109.216.181:444?security=tls&obfs=salamander&obfs-password=Masir_Sefid&insecure=0&sni=qs.masir-sefid.shop#%D8%B3%D8%B1%D9%88%D8%B1%20%D8%A7%D8%B6%D8%B7%D8%B1%D8%A7%D8%B1%DB%8C
+hysteria2://Masir_Sefid@65.109.216.181:8880?security=tls&obfs=salamander&obfs-password=Masir_Sefid&insecure=0&sni=qs.masir-sefid.shop#%D8%B3%D8%B1%D9%88%D8%B1%20%D8%A7%D8%B6%D8%B7%D8%B1%D8%A7%D8%B1%DB%8C
+hysteria2://Masir_Sefid@65.109.216.181:1040?security=tls&obfs=salamander&obfs-password=Masir_Sefid&insecure=0&sni=qs.masir-sefid.shop#%D8%B3%D8%B1%D9%88%D8%B1%20%D8%A7%D8%B6%D8%B7%D8%B1%D8%A7%D8%B1%DB%8C
+hysteria2://Masir_Sefid@65.109.216.181:4040?security=tls&obfs=salamander&obfs-password=Masir_Sefid&insecure=0&sni=qs.masir-sefid.shop#%D8%B3%D8%B1%D9%88%D8%B1%20%D8%A7%D8%B6%D8%B7%D8%B1%D8%A7%D8%B1%DB%8C
+hysteria2://Masir_Sefid@65.109.216.181:54040?security=tls&obfs=salamander&obfs-password=Masir_Sefid&insecure=0&sni=qs.masir-sefid.shop#%D8%B3%D8%B1%D9%88%D8%B1%20%D8%A7%D8%B6%D8%B7%D8%B1%D8%A7%D8%B1%DB%8C
